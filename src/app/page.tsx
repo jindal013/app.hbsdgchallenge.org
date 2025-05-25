@@ -9,7 +9,7 @@ export default function Home() {
         <div className="w-full max-w-sm md:max-w-3xl relative z-20">
           <LoginForm />
         </div>
-<div className="fixed inset-0 z-10 pt-[calc((100vh-515px)/8)] hidden min-[1200px]:flex">
+<div className="fixed inset-0 z-10 pt-[calc((100vh-515px)/9)] hidden min-[1200px]:flex">
           <FallingText
             text={`Largest Youth Makerspace. Impactful Change. Endless Innovation. That's SDG. `}
             highlightWords={[
