@@ -22,10 +22,10 @@ export function LoginForm({
             <form className="p-6 md:p-8">
               <div className="flex flex-col gap-6">
                 <div className="flex flex-col items-center text-center">
-                  <AuroraText className="text-[1.8rem] font-semi-bold">
+                  <AuroraText className="text-[1.5rem] md:text-[1.8rem] font-semi-bold">
                     SDG Change Challenge
                   </AuroraText>
-                  <p className="text-muted-foreground text-balance text-sm italic mt-1 ">
+                  <p className="text-muted-foreground text-balance text-xs md:text-sm italic mt-1 ">
                     Login to your mentor account
                   </p>
                 </div>
