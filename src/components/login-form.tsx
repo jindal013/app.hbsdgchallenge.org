@@ -5,7 +5,6 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { MagicCard } from "@/components/magicui/magic-card";
 import { AuroraText } from "@/components/magicui/aurora-text";
-import { BorderBeam } from "@/components/magicui/border-beam";
 import Image from "next/image";
 
 export function LoginForm({
@@ -67,7 +66,6 @@ export function LoginForm({
                       />
                     </svg>
                     <span>Login with Google</span>
-                    <BorderBeam />
                   </Button>
                 </div>
                 <div className="text-center text-sm">
