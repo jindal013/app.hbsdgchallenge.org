@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Login - SDG Change Challenge",
+  title: "Dashboard | SDG Change Challenge",
   description: "Dashboard for the SDG Change Challenge 2025",
 };
 
